@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project by Pardha
+Simple Maven Project by Pardhu
